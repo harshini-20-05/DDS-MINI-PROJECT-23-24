@@ -14,7 +14,7 @@ Simulation:
 4. The final output is 1 implies that the bus can move, if  its 0, then the corresponding LED will go on, indicating to the driver what the specific problem is.
 
 
-***** README FOR Verilog ******
+***** README FOR VERILOG *****
 
 
 The verilog has 7 modules.
