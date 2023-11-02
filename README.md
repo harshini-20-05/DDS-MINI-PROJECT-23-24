@@ -326,6 +326,90 @@ The testbench can be changed to the convinience to verify cases.
 
 
   </details>
+
+  <details>
+	  <summary>sub.v</summary>
+	  
+	  // counts the number of people standing near the door by subtracting the values in the two counters
+	module sub(input [4:0] a, input [4:0] b, output reg [4:0] res );
+
+        always @* begin
+                res=a-b;
+        end
+	endmodule
+
+  </details>
+
+  <details>
+	  <summary>comp2.v</summary>
+	  
+	  // returns 1 if there are 0 people standing
+	module comp2(A,x);
+        input [4:0]A;
+        //input [4:0]B;
+        output x;
+        wire a,b,c,d,e;
+        xnor(a,A[4],0);
+        xnor(b,A[3],0);
+        xnor(c,A[2],0);
+        xnor(d,A[1],0);
+        xnor(e,A[0],0);
+
+        assign x=a&b&c&d&e;
+
+	endmodule
+
+
+  </details>
+
+  <details>
+	  <summary>finst.v</summary>
+	  
+	  // decides if the bus should finally be start or stop based on the 3 inputs
+	module finst(input x,input k,input y, output finout);
+        assign finout = ~x&k&y;
+
+
+	endmodule
+
+  </details>
+
+  <details>
+	  <summary>lig.v</summary>
+	  
+	 // decides if light should be off if there are 0 people and on otherwise
+	module lig(input [4:0] count, output reg light);
+        always @*
+        begin
+                if(count==0)
+                        light<=0;
+
+                else
+                        light<=1;
+        end
+
+	endmodule
+
+  </details>
+
+  <details>
+	  <summary>id.v</summary>
+	  
+	  // returns 1 as output if both the ids - id in database and the passengers id match
+	module id(input [7:0] vaid, input [7:0] id1,input [7:0] id2,input [7:0] id3, output reg y);
+
+        always@(vaid)
+                begin
+                if(id1 == vaid || id2==vaid || id3==vaid)
+                        y<=1;
+                else
+                        y<=0;
+
+        end
+
+	endmodule
+
+  </details>
 	
 </details>
 
