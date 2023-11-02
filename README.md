@@ -23,21 +23,21 @@
   
   Abstract: 
 
-Background:  
+## Background:  
 
 In India, there can be a lack of stringent enforcement of regulations regarding passenger limits and overloading. In some cases, buses are allowed to operate despite exceeding their capacity. In recent years, the transportation landscape has undergone significant transformations driven by technological advancements, evolving passenger expectations, and the pressing need for sustainable mobility solutions. In this context, our project seeks to address critical challenges and opportunities within the public transportation sector, with a focus on enhancing the overall passenger experience, safety, and efficiency of bus services. We’ll keep a counter that keeps track of the number of people entering the bus and display the number of free seats to the passengers. 
 
  
 
- Motivation:  
+ ## Motivation:  
 
 Ensuring the comfort and safety of bus passengers is paramount. Our project acknowledges the significance of creating a secure and pleasant environment for all travellers. As the world grapples with environmental concerns, public transportation plays a pivotal role in reducing emissions and promoting sustainability. Our project aligns with these global sustainability objectives. We plan to install energy efficient lights that adjust according to the time of the day.  
 
  
 
-Unique Contribution: 
+ ## Unique Contribution: 
 
- 1. Safety Rules: The system shall prevent passengers from standing near the door when available seats are unoccupied. The bus shall not start in such a case until the person sits down.  
+1. Safety Rules: The system shall prevent passengers from standing near the door when available seats are unoccupied. The bus shall not start in such a case until the person sits down.  
 
 2. Power Saving: When the bus is empty, the electrical appliances like lights inside the bus will be turned off leading to saving the power.  
 
@@ -51,9 +51,9 @@ Unique Contribution:
 
  
 
-Brief Description: 
+## Brief Description: 
 
-Idea: 
+## Idea: 
 
 To ensure safe and secure travel experience in local bus transportation by implementing the following conditions: 
 
@@ -69,7 +69,7 @@ To ensure safe and secure travel experience in local bus transportation by imple
 
  
 
-Existing issues: 
+## Existing issues: 
 
 1. Road accidents due to overloading. 
 
@@ -77,7 +77,7 @@ Existing issues:
 
 3.Unauthorized people travelling inside the public transportation. 
 
-Approach: 
+## Approach: 
 
 1.Using combinational and sequential circuits to design a model to count the number of passengers therefore avoiding overloading situations. 
 
@@ -95,15 +95,17 @@ Approach:
 <details>
   <summary>Detail</summary>
 
-  **LOGISIM: WORKING**
-Initialization:
+
+**LOGISIM: WORKING**
+  
+## Initialization:
 
 1. Set the 8-bit INPUT ID, the 3 valid ID's are (11111111,10000000,11111000).
 2. Set constant 00000(0) as one of the input to the  first comparator.
 3. Set constant 11110(30) (maximum seats in the bus) as one of the input to the subtractor which calculates and displays the number of empty seats.
 4. Set constant 11110(30) as one of the input to the third comparator.
 
-Simulation:
+## Simulation:
 1. Click the clock 1(counter 1) each time  a person enters the bus.
    Change the Counter1's value by clicking on clock, reset button to set to 0, and upordown for up counting(1) and down counting(0) for down.
 2. Change the Counter2's value by clicking on clock, reset button to set to 0, and upordown for up counting(1) and down counting(0) for down.
@@ -133,7 +135,7 @@ Module 7: Final Output (finst.v)      // decides if the bus should finally start
 
 
 
-Testbench 
+## Testbench 
 
 		reset = 0;reset2=0;
                 UpOrDown = 1;UpOrDown2=1;id1=01101101;id2=11111110;id3=01111101;vaid=01101101;
