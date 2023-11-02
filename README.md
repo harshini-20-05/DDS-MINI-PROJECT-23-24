@@ -1,3 +1,4 @@
+# SMART-COMMUTE
 
 <!-- First Section -->
 ## Team Details
