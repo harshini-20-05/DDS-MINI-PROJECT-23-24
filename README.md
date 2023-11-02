@@ -7,7 +7,7 @@
 
   > Semester: 3rd Sem B. Tech. CSE
 
-  > Section: S1/S2
+  > Section: S2
 
   > Member-1: HARSHINI.V, 221CS223, harshiniv.221cs223@nitk.edu.in 
 
@@ -158,9 +158,9 @@ Module 7: Final Output (finst.v)      // decides if the bus should finally start
 
 
 
-The testbench can be changed to the convinience to verify cases. 
+The testbench can be changed to the convenience to verify cases. 
 
-> ## FUNCTINAL TABLE
+> ## FUNCTIONAL TABLE
 
 > OR GATE
 
