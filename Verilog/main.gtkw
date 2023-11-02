@@ -1,0 +1,18 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Thu Nov  2 18:57:52 2023
+[*]
+[dumpfile] "/home/varahi/Documents/verilog/week2/main.vcd"
+[dumpfile_mtime] "Mon Oct 30 14:34:09 2023"
+[dumpfile_size] 3248
+[savefile] "/home/varahi/Downloads/main.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-2.753085 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 273
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 161
+[pattern_trace] 1
+[pattern_trace] 0
