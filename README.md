@@ -163,9 +163,6 @@ The testbench can be changed to the convenience to verify cases.
 > ## FUNCTIONAL TABLE
 
 > OR GATE
-
-
-
 ![or](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/d9860787-330c-4ccd-bd4f-d9c47edf3a72)
 
 > AND GATE
@@ -175,15 +172,11 @@ The testbench can be changed to the convenience to verify cases.
 
 
 > 5 – Bit Comparator
+![comp](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/dc1a07a9-9456-4326-9d7d-ce244f5f896d)
 
-
-
-![Uploading comp.png…]()
 
 
 > D Flip-Flop 5-bit Synchronous Up-Down Counter
-
-
 ![1fn](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/091fd232-813d-45bb-989b-20997d84edb6)
 ![2fu](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/a620dbd8-884c-472b-833c-fb89cad9b8a6)
 ![3fu](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/1b04c792-6e54-454b-a4a5-a03ad9029772)
@@ -193,7 +186,6 @@ The testbench can be changed to the convenience to verify cases.
 
 
 > NOT GATE
-
 ![notg](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/bdf17771-6456-457c-91c4-536d50ab113e)
 
 > ## Flow Chart
