@@ -176,19 +176,17 @@ The testbench can be changed to the convenience to verify cases.
 
 > D Flip-Flop 5-bit Synchronous Up-Down Counter
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/848ed54c-6d02-4934-9c18-3426ea35e380)
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/b37a6264-1412-4a53-9deb-183e1ae67294)
+![1fn](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/091fd232-813d-45bb-989b-20997d84edb6)
+![2fu](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/a620dbd8-884c-472b-833c-fb89cad9b8a6)
+![3fu](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/1b04c792-6e54-454b-a4a5-a03ad9029772)
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/46f56851-34b8-47f0-96f5-776a29bfd7df)
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/776de498-7a8b-45ff-9034-a72c4808c039)
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/e1787c32-ac39-4c6b-9ca1-bb979e2b77a2)
 
 > NOT GATE
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/76a6d1f6-4d92-4b48-8589-63b7c7f9cbc4)
+![notg](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/bdf17771-6456-457c-91c4-536d50ab113e)
 
 > ## Flow Chart
 
