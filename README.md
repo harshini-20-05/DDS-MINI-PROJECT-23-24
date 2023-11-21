@@ -399,7 +399,7 @@ The testbench can be changed to the convenience to verify cases.
 	  // returns 1 as output if both the ids - id in database and the passengers id match
 	module id(input [7:0] vaid, input [7:0] id1,input [7:0] id2,input [7:0] id3, output reg y);
 
-        always@(vaid)
+        always@(vaid) 
                 begin
                 if(id1 == vaid || id2==vaid || id3==vaid)
                         y<=1;
