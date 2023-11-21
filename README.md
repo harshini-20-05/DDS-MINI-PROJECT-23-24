@@ -194,6 +194,7 @@ The testbench can be changed to the convenience to verify cases.
 
 ![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/2b777e65-ff67-4527-b812-b3edd40de612)
 
+![Untitled Diagram drawio (1)](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/3ac3695a-f21e-4086-add5-fa13e0719834)
 
 </details>
 
