@@ -192,7 +192,6 @@ The testbench can be changed to the convenience to verify cases.
 
 > ## Flow Chart
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/2b777e65-ff67-4527-b812-b3edd40de612)
 
 ![Untitled Diagram drawio (1)](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/3ac3695a-f21e-4086-add5-fa13e0719834)
 
@@ -202,8 +201,8 @@ The testbench can be changed to the convenience to verify cases.
 ## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
-
-  ![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/06cdf9cb-efb0-4a25-8a2e-268154a98729)
+  
+  ![Logisim](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/cbc950a5-6f71-4aef-b342-043503eb2941)
 
 </details>
 
