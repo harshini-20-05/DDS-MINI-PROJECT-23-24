@@ -164,15 +164,22 @@ The testbench can be changed to the convenience to verify cases.
 
 > OR GATE
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/aa4f15a8-b57d-490e-bc74-105016cc774d)
+
+
+![or](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/d9860787-330c-4ccd-bd4f-d9c47edf3a72)
 
 > AND GATE
+![and](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/1aaab453-cf43-457d-9205-68d402fc3189)
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/9294490e-5499-4372-9645-9a5b111fb885)
+
+
 
 > 5 – Bit Comparator
 
-![image](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/6de970f8-688c-4666-87e9-a692f527cc35)
+
+
+![Uploading comp.png…]()
+
 
 > D Flip-Flop 5-bit Synchronous Up-Down Counter
 
@@ -180,6 +187,7 @@ The testbench can be changed to the convenience to verify cases.
 ![1fn](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/091fd232-813d-45bb-989b-20997d84edb6)
 ![2fu](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/a620dbd8-884c-472b-833c-fb89cad9b8a6)
 ![3fu](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24/assets/130059324/1b04c792-6e54-454b-a4a5-a03ad9029772)
+
 
 
 
